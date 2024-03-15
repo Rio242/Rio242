@@ -10,9 +10,9 @@ Hello, my name is Mario Strachan, an engineer with a passion for data analytics 
   
 - 📊 Always excited to collaborate on projects that challenge me to think critically and creatively.
   
--  Bachelor's degree in Aerospace engineering 🚀 along with 4 years of manufacturing & design engineering experience.  
+- 🚀 Bachelor's degree in Aerospace engineering  along with 4 years of manufacturing & design engineering experience.  
   
-- ⚡ Fun fact: I'm originally from the Bahamas
+- 🌱 Fun fact: I'm originally from the Bahamas
 
   
 # Repositories:
