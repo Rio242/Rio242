@@ -16,7 +16,7 @@ Hello, my name is Mario Strachan, an engineer with a passion for data analytics 
 
   
 # Repositories:
-### Featured Projects  
+### Data Projects  
 1. [TechCentral E-commerce Analysis](https://github.com/Rio242/TechCentral-Ecommerce_Analysis): An analysis of transaction records for an electronics retailer examining trends in sales, refunds, and the loyalty program providing recommendations to the sales, inventory, and loyalty teams.
     * Tools used: Excel, SQL Tableau
   
