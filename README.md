@@ -12,8 +12,16 @@ Hello, my name is Mario Strachan, an engineer with a passion for data analytics 
   
 -  Bachelor's degree in Aerospace engineering 🚀 along with 4 years of manufacturing & design engineering experience.  
   
-- ⚡ Fun fact: I'm originally from the Bahamas  
+- ⚡ Fun fact: I'm originally from the Bahamas
+
   
+# Repositories:
+### Featured Projects  
+1. [TechCentral E-commerce Analysis](https://github.com/Rio242/TechCentral-Ecommerce_Analysis): An analysis of transaction records for an electronics retailer examining trends in sales, refunds, and the loyalty program providing recommendations to the sales, inventory, and loyalty teams.
+    * Tools used: Excel, SQL Tableau
+  
+
+
 
 <br/>  
 
