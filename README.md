@@ -6,12 +6,12 @@ Hello, my name is Mario Strachan, an engineer with a passion for data analytics 
 **About Me:**  
   
 
-- Detailed oriented with a passion for problem solving  
+- 📈 I'm passionate about leveraging data to drive informed decision-making and uncovering actionable insights.
   
-
+- 📊 Always excited to collaborate on projects that challenge me to think critically and creatively.
+  
 -  Bachelor's degree in Aerospace engineering 🚀 along with 4 years of manufacturing & design engineering experience.  
   
-
 - ⚡ Fun fact: I'm originally from the Bahamas  
   
 
